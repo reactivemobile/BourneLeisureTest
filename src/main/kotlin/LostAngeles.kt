@@ -34,7 +34,7 @@ fun transportGroups(campsite: Graph<String, DefaultEdge>, groups: Array<Group>) 
         val route = DijkstraShortestPath.findPathBetween(campsite, "Caravan 1", "Caravan ${group.caravan}")
         val pathLength = route.length
         val routeSteps = route.vertexList
-        println("Waiting time for group ${group.familyid} = $waitingTimeSoFar minutes\t\t Path to Caravan ${group.caravan} is $routeSteps")
+        println("Group ${group.familyid}\t\tWaiting time = $waitingTimeSoFar minutes\t\t Path to Caravan ${group.caravan} is $routeSteps")
         waitingTimeSoFar += pathLength
     }
 }
