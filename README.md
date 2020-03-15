@@ -34,22 +34,22 @@ Adding Roads..
 Loading data from URL..
 
 Transporting groups..
-Group   1	Waiting time = 0 minutes	Path to Caravan 5 is [Caravan 1, Caravan 2, Caravan 3, Caravan 4, Caravan 5]
-Group   2	Waiting time = 4 minutes	Path to Caravan 12 is [Caravan 1, Caravan 13, Caravan 12]
-Group   3	Waiting time = 6 minutes	Path to Caravan 9 is [Caravan 1, Caravan 13, Caravan 12, Caravan 11, Caravan 10, Caravan 9]
-Group   4	Waiting time = 11 minutes	Path to Caravan 15 is [Caravan 1, Caravan 13, Caravan 16, Caravan 15]
-Group   5	Waiting time = 14 minutes	Path to Caravan 10 is [Caravan 1, Caravan 13, Caravan 12, Caravan 11, Caravan 10]
-Group   6	Waiting time = 18 minutes	Path to Caravan 3 is [Caravan 1, Caravan 2, Caravan 3]
-Group   7	Waiting time = 20 minutes	Path to Caravan 1 is [Caravan 1]
-Group   8	Waiting time = 20 minutes	Path to Caravan 3 is [Caravan 1, Caravan 2, Caravan 3]
-Group   9	Waiting time = 22 minutes	Path to Caravan 7 is [Caravan 1, Caravan 2, Caravan 3, Caravan 4, Caravan 5, Caravan 6, Caravan 7]
-Group  10	Waiting time = 28 minutes	Path to Caravan 6 is [Caravan 1, Caravan 2, Caravan 3, Caravan 4, Caravan 5, Caravan 6]
-Group  11	Waiting time = 33 minutes	Path to Caravan 14 is [Caravan 1, Caravan 13, Caravan 16, Caravan 15, Caravan 14]
-Group  12	Waiting time = 37 minutes	Path to Caravan 11 is [Caravan 1, Caravan 13, Caravan 12, Caravan 11]
-Group  13	Waiting time = 40 minutes	Path to Caravan 13 is [Caravan 1, Caravan 13]
-Group  14	Waiting time = 41 minutes	Path to Caravan 8 is [Caravan 1, Caravan 13, Caravan 16, Caravan 15, Caravan 14, Caravan 8]
-Group  15	Waiting time = 46 minutes	Path to Caravan 16 is [Caravan 1, Caravan 13, Caravan 16]
-Group  16	Waiting time = 48 minutes	Path to Caravan 2 is [Caravan 1, Caravan 2]
+Group  1 -- Waiting time to caravan was  4 minutes -- Trip to caravan was [Caravan 1, Caravan 2, Caravan 3, Caravan 4, Caravan 5]
+Group  2 -- Waiting time to caravan was  6 minutes -- Trip to caravan was [Caravan 1, Caravan 13, Caravan 12]
+Group  3 -- Waiting time to caravan was 11 minutes -- Trip to caravan was [Caravan 1, Caravan 13, Caravan 12, Caravan 11, Caravan 10, Caravan 9]
+Group  4 -- Waiting time to caravan was 14 minutes -- Trip to caravan was [Caravan 1, Caravan 13, Caravan 16, Caravan 15]
+Group  5 -- Waiting time to caravan was 18 minutes -- Trip to caravan was [Caravan 1, Caravan 13, Caravan 12, Caravan 11, Caravan 10]
+Group  6 -- Waiting time to caravan was 20 minutes -- Trip to caravan was [Caravan 1, Caravan 2, Caravan 3]
+Group  7 -- Waiting time to caravan was 20 minutes -- Trip to caravan was [Caravan 1]
+Group  8 -- Waiting time to caravan was 22 minutes -- Trip to caravan was [Caravan 1, Caravan 2, Caravan 3]
+Group  9 -- Waiting time to caravan was 28 minutes -- Trip to caravan was [Caravan 1, Caravan 2, Caravan 3, Caravan 4, Caravan 5, Caravan 6, Caravan 7]
+Group 10 -- Waiting time to caravan was 33 minutes -- Trip to caravan was [Caravan 1, Caravan 2, Caravan 3, Caravan 4, Caravan 5, Caravan 6]
+Group 11 -- Waiting time to caravan was 37 minutes -- Trip to caravan was [Caravan 1, Caravan 13, Caravan 16, Caravan 15, Caravan 14]
+Group 12 -- Waiting time to caravan was 40 minutes -- Trip to caravan was [Caravan 1, Caravan 13, Caravan 12, Caravan 11]
+Group 13 -- Waiting time to caravan was 41 minutes -- Trip to caravan was [Caravan 1, Caravan 13]
+Group 14 -- Waiting time to caravan was 46 minutes -- Trip to caravan was [Caravan 1, Caravan 13, Caravan 16, Caravan 15, Caravan 14, Caravan 8]
+Group 15 -- Waiting time to caravan was 48 minutes -- Trip to caravan was [Caravan 1, Caravan 13, Caravan 16]
+Group 16 -- Waiting time to caravan was 49 minutes -- Trip to caravan was [Caravan 1, Caravan 2]
 
 Done
 
