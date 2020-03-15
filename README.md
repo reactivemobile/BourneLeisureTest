@@ -4,6 +4,8 @@
 
 I'm assuming there's no distance from the park gate to Caravan 1 because it's not listed in the instructions (They state it takes 1 minute to travel between each _caravan_ on the map). If necessary we could modify the graph setup to make a new start node.
 
+It wasn't clear if each member of the group needs to be taken to the caravan _separately_. If this is the case then the current time taken for each group must be multiplied by the number of people in the group.
+
 It also wasn't clear from the instructions whether or not the json should be used directly from the URL or copied to a local file. I've just gone with the former but I'm not handling network errors.
 
 ## The App
